@@ -1,1 +1,2 @@
 # tsa_crypto_app
+This is a Time Series Analysis based project which includes concepts like: Analysis of current data and forecasting future values of top five cryptocurrencies like BTC,LTC,ETH,XRP and ADA.This web page also includes various time series graphs to create a better understanding for our data and there is also a section where forecasting future values of next 60 days.Based on the forecasted data there is also a section for tomorrows top gainer and there is also section which shows the dataset of selected cryptocurrency.
