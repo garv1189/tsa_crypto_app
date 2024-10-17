@@ -1,0 +1,10 @@
+Step 1: Clone the repo
+Step 2:Set up a python virtual environment
+Step 3:Install dependencies using requirements.txt
+Step 4:Go to scripts and run python files in order of
+        fetch_crypto_data.py
+        clean_process_data.py
+        create_visualizations.py
+        create_forecast_model_prophet.py
+
+Finally run the streamlit_app.py file using the command (streamlit run streamlit_app.py)  
